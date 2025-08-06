@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Alex Pedrini"
+title: "Hi, I'm Alex Pedrini!"
 layout: archive
 sitemap: true
 permalink: /
