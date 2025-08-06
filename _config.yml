@@ -116,15 +116,15 @@ author:
   name             : "Alex Pedrini"
   avatar           : "/assets/images/Headshot_2.png"
   bio              : "Star formation and stellar feedback "
-  location         : "Stockholm"
-  email            : "Email"
+  location         : "Stockholm, Sweden"
+  email            : "alex.pedrini@astro.su.se"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:alex.pedrini@astro.su.se"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "/"
+      url: "mailto:alex.pedrini@astro.su.se"
+    - label: "Stockholm, Sweden"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://maps.app.goo.gl/4vBpeoAT7JoK4GKp8"
 
 # Site Footer
 footer:
