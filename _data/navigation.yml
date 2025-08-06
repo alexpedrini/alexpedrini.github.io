@@ -8,6 +8,8 @@ main:
     url: /cv/
   - title: "Publications"
     url: /publications/
+  - title: "About me"
+    url: /aboutme/
 
 
   
