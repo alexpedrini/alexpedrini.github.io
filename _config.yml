@@ -122,7 +122,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:alex.pedrini@astro.su.se"
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fas fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-8222-8986"
 # Site Footer
 footer:
