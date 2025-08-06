@@ -13,7 +13,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/publications.jpg
     excerpt: "Check my publications out"
-    url: "/publications/
+    url: "/publications/"
     btn_label: "Publications"
     btn_class: "btn--primary"
   - image_path: /assets/images/skane.jpg
