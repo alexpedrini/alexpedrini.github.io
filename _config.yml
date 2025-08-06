@@ -117,12 +117,13 @@ author:
   avatar           : "/assets/images/Headshot_2.png"
   bio              : "Star formation and stellar feedback "
   location         : "Stockholm, Sweden"
-  email            : "alex.pedrini@astro.su.se"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:alex.pedrini@astro.su.se"
-    
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-8222-8986"
 # Site Footer
 footer:
   links:
