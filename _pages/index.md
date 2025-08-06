@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 classes: wide
 feature_row:
-  - image_path: assets/images/ngc628.jpg
+  - image_path: assets/images/ngc628_c.jpg
     excerpt: "You can find my research interests here"
     url: "/research/"
     btn_label: "Research"
@@ -16,7 +16,7 @@ feature_row:
     url: "/publications/"
     btn_label: "Publications"
     btn_class: "btn--primary"
-  - image_path: /assets/images/skane.jpg
+  - image_path: /assets/images/skane_c.jpg
     excerpt: "Learn something more about me"
     url: "/aboutme/"
     btn_label: "About me"
