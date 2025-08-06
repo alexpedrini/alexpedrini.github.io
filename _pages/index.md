@@ -11,7 +11,7 @@ feature_row:
     url: "/research/"
     btn_label: "Research"
     btn_class: "btn--primary"
-  - image_path: /assets/images/publications.jpg
+  - image_path: /assets/images/publications.png
     excerpt: "Check my publications out"
     url: "/publications/"
     btn_label: "Publications"
