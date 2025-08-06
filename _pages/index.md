@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 feature_row:
   - image_path: assets/images/ngc628_c.jpg
-    excerpt: "You can find my research interests here"
+    excerpt: "My research interests"
     url: "/research/"
     btn_label: "Research"
     btn_class: "btn--primary"
