@@ -122,10 +122,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:alex.pedrini@astro.su.se"
-    - label: "Stockholm, Sweden"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://maps.app.goo.gl/4vBpeoAT7JoK4GKp8"
-
+    
 # Site Footer
 footer:
   links:
