@@ -7,13 +7,7 @@ header:
   overlay_filter: 0.4 # darkens the background so text is readable
   overlay_color: "#000"
   caption: "Credit: ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
-  actions:
-    - label: "Explore FEAST"
-      url: "https://feast-survey.github.io" 
-  cta_label: "Publications"
-  cta_url: /publications/
-  cta_icon: "fas fa-book"
-excerpt: "Part of the **FEAST** program — Feedback in Emerging extragAlactic Star clusTers — unveiling star formation in nearby galaxies."
+excerpt: "I'm a member of the FEAST (Feedback in Emerging extragAlactic Star clusTers) program, studying star formation and stellar feedback in nearby galaxies."
 intro: 
   - excerpt: >
       My research is embedded within the **[FEAST](https://feast-survey.github.io)** program, 
@@ -55,12 +49,8 @@ feature_row:
 
 ![FEAST Logo](/assets/images/logoFEASTvec.svg){: .align-right width="200px"}
 
-The **Feedback in Emerging extragAlactic Star clusTers (FEAST)** program 
-combines multi-wavelength observations to study how stellar feedback — 
-winds, radiation, and supernovae — disperses the surrounding gas and dust 
-in young star-forming regions.  
-My work within FEAST focuses on mapping and understanding these processes 
-across different galactic environments.
+My research is embedded within the **[FEAST](https://feast-survey.github.io)** program, which investigates how stellar feedback from massive stars shapes the surrounding interstellar medium and influences galaxy evolution. I focus on the morphological and physical characterization of star-forming regions in nearby galaxies, combining observations from the **James Webb Space Telescope** and other facilities. 
+[Explore FEAST](https://feast-astronomy.com){: .btn .btn--primary}
 ---
 
 ## Mapping HII Regions and PDRs {#hii-pdrs}
