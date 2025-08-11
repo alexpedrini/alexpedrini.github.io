@@ -69,9 +69,7 @@ In my research, I focus on the morphological and physical characterization of st
 </div>
 
 With the **James Webb Space Telescope**, we can now identify HII regions and photodissociation regions (PDRs) at resolutions of just a few parsecs in nearby galaxies. These regions are direct products of stellar feedback from emerging young star clusters. In the near-infrared, HII regions are traced by hydrogen recombination lines (e.g., Pa&alpha; at 1.87 &mu;m). PDRs are colder and denser, where molecules such as polycyclic aromatic hydrocarbons (PAHs) can survive; these are observable at 3.3 &mu;m with JWST/NIRCam and 7.7&mu;m with JWST/MIRI.
-
 I have developed a methodology to identify these regions and studied how PAHs are destroyed in intense stellar environments. You can find the corresponding paper **[here](https://iopscience.iop.org/article/10.3847/1538-4357/ad534d)**, where I am the corresponding author.
-
 The figure, taken from this paper, shows a star-forming complex with HII regions marked by orange contours and PDRs in white.
 
 
