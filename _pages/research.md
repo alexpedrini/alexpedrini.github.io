@@ -16,6 +16,13 @@ intro:
       and physical characterization of star-forming regions in nearby galaxies, combining 
       observations from the **James Webb Space Telescope** and other facilities. 
 feature_row:
+  - image_path: /assets/images/galaxies.jpg
+    alt: "FEAST"
+    title: "FEAST galaxies"
+    #excerpt: "Identifying and mapping ionized gas (HII regions) and photodissociation regions (PDRs) in nearby galaxies to trace the influence of massive stars."
+    #url: "#hii-pdrs"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/paper1_screen.jpg
     alt: "HII regions and PDRs"
     title: "Mapping HII Regions and PDRs in NGC 628"
@@ -49,11 +56,14 @@ feature_row:
 
 ![FEAST Logo](/assets/images/logoFEASTvec.svg){: .align-right width="200px"}
 
-My research is embedded within the **[FEAST](https://feast-survey.github.io)** program, which investigates how stellar feedback from massive stars shapes the surrounding interstellar medium and influences galaxy evolution. I focus on the morphological and physical characterization of star-forming regions in nearby galaxies, combining observations from the **James Webb Space Telescope** and other facilities. 
+My research is embedded within the FEAST program, a James Webb Space Telescope Cycle 1 program that aims to understand how stellar feedback from massive stars shapes the surrounding interstellar medium and influences galaxy evolution. To achieve this, we have observed six galaxies within 10 Mpc: the well-studied M51, M83, NGC 628, NGC 4449, NGC 4490, and NGC 4495. These galaxies feature rich catalogs of archival observations collected from the largest ground- and space-based telescopes.
+In my research, I focus on the morphological and physical characterization of star-forming regions and emerging young star clusters in these galaxies, seeking to uncover the emergence phase of star formation and its impact across galactic scales.
+
 [Explore FEAST](https://feast-survey.github.io){: .btn .btn--primary}
+
 ---
 
-## Mapping HII Regions and PDRs {#hii-pdrs}
+## Mapping HII Regions and PDRs in NGC 628 {#hii-pdrs}
 I identify and map **HII regions** (ionized hydrogen) and **PDRs** (photodissociation regions) in nearby galaxies using tracers such as Hα emission and PAH features. 
 These maps reveal how young stars shape the surrounding interstellar medium.
 
