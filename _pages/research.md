@@ -65,7 +65,7 @@ These maps reveal how young stars shape the surrounding interstellar medium.
 Using high-resolution imaging from HST and JWST, I detect and classify young star clusters.  
 This allows us to connect their properties to their environment and evolutionary stage.
 
-#![Star Cluster Zoom](/assets/images/M83_clusters.png)
+![Star Cluster Zoom](/assets/images/M83_clusters.png)
 
 ---
 
@@ -73,11 +73,11 @@ This allows us to connect their properties to their environment and evolutionary
 I apply **SED fitting** to multi-wavelength photometry (UV to IR) to estimate ages, masses, and extinctions of clusters and regions.  
 This is crucial for reconstructing the star formation history.
 
-#![SED Plot](/assets/images/934_best_model.pdf)
+![SED Plot](/assets/images/934_best_model.pdf)
 
 ---
 
 ## SLUG Modelling {#slug}
 I use **SLUG** simulations to model stochastic effects in stellar populations, compare them to observations, and understand cluster evolution.
 
-#![SLUG Schematic](/assets/images/slug.png)
+![SLUG Schematic](/assets/images/slug.png)
