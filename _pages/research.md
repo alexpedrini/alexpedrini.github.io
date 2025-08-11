@@ -92,7 +92,7 @@ In the figure, we show the young cluster population in M83 from the **[paper](ht
 
 ## Spectral Energy Distribution Fitting {#sed-fitting}
 <div style="float:left; margin-right:20px; width:400px;">
-  <img src="/assets/images/934_best_model.pdf" alt="SED Plot" style="width:100%;">
+  <img src="/assets/images/sed_fit.png" alt="SED Plot" style="width:100%;">
 </div>
 
 I apply **SED fitting** to multi-wavelength photometry (UV to IR) to estimate ages, masses, and extinctions of clusters and regions. 
