@@ -64,30 +64,46 @@ In my research, I focus on the morphological and physical characterization of st
 ---
 
 ## Mapping HII Regions and PDRs in NGC 628 {#hii-pdrs}
+<div style="float:left; margin-right:20px; width:400px;">
+  <img src="/assets/images/paper1_screen.jpg" alt="Example Map" style="width:100%;">
+</div>
+
 I identify and map **HII regions** (ionized hydrogen) and **PDRs** (photodissociation regions) in nearby galaxies using tracers such as Hα emission and PAH features. 
 These maps reveal how young stars shape the surrounding interstellar medium.
 
-![Example Map](/assets/images/paper1_screen.jpg)
+<div style="clear:both;"></div>
 
 ---
 
 ## Star Cluster Identification {#star-clusters}
+<div style="float:right; margin-left:20px; width:400px;">
+  <img src="/assets/images/M83_clusters.png" alt="Star Cluster Zoom" style="width:100%;">
+</div>
+
 Using high-resolution imaging from HST and JWST, I detect and classify young star clusters.  
 This allows us to connect their properties to their environment and evolutionary stage.
 
-![Star Cluster Zoom](/assets/images/M83_clusters.png)
+<div style="clear:both;"></div>
 
 ---
 
 ## Spectral Energy Distribution Fitting {#sed-fitting}
+<div style="float:left; margin-right:20px; width:400px;">
+  <img src="/assets/images/934_best_model.pdf" alt="SED Plot" style="width:100%;">
+</div>
+
 I apply **SED fitting** to multi-wavelength photometry (UV to IR) to estimate ages, masses, and extinctions of clusters and regions.  
 This is crucial for reconstructing the star formation history.
 
-![SED Plot](/assets/images/934_best_model.pdf)
+<div style="clear:both;"></div>
 
 ---
 
 ## SLUG Modelling {#slug}
+<div style="float:right; margin-left:20px; width:400px;">
+  <img src="/assets/images/slug.png" alt="SLUG Schematic" style="width:100%;">
+</div>
+
 I use **SLUG** simulations to model stochastic effects in stellar populations, compare them to observations, and understand cluster evolution.
 
-![SLUG Schematic](/assets/images/slug.png)
+<div style="clear:both;"></div>
