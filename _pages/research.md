@@ -72,7 +72,7 @@ With the **James Webb Space Telescope**, we can now identify HII regions and pho
 
 I have developed a methodology to identify these regions and studied how PAHs are destroyed in intense stellar environments. You can find the corresponding paper **[here](https://iopscience.iop.org/article/10.3847/1538-4357/ad534d)**, where I am the corresponding author.
 
-The figure below, taken from this paper, shows a star-forming complex with HII regions marked by orange contours and PDRs in white.
+The figure, taken from this paper, shows a star-forming complex with HII regions marked by orange contours and PDRs in white.
 
 
 <div style="clear:both;"></div>
