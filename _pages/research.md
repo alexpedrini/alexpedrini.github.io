@@ -82,8 +82,9 @@ The figure, taken from this paper, shows a star-forming complex with HII regions
   <img src="/assets/images/M83_clusters.png" alt="Star Cluster Zoom" style="width:100%;">
 </div>
 
-Using high-resolution imaging from HST and JWST, I detect and classify young star clusters. 
-This allows us to connect their properties to their environment and evolutionary stage.
+Within the FEAST team, we have developed a pipeline to identify and extract emerging young star clusters across our sample of galaxies. These clusters are selected to be bright and compact in Pa&alpha; and in the 3.3 &mu;m PAH emission, and are classified as eYSCI. Sources that show bright and compact Pa&alpha; emission but lack a compact PAH counterpart are classified as eYSCII. In FEAST, we are also studying a particular group of sources that display compact PAH emission without a corresponding Pa&alpha; detection.
+The identification process is followed by multiple visual inspections, which ultimately result in the production of various catalogs. I am an active member of the catalog production effort for the FEAST team.
+In the figure, we show the young cluster population in M83 from the **[paper](https://arxiv.org/abs/2505.08874)** led by Alice Knutas, for which I am the third author. Here, we additionally show in cyan the population of optical young star clusters, identified using archival images from the Hubble Space Telescope.
 
 <div style="clear:both;"></div>
 
