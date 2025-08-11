@@ -50,7 +50,7 @@ feature_row:
 ![FEAST Logo](/assets/images/logoFEASTvec.svg){: .align-right width="200px"}
 
 My research is embedded within the **[FEAST](https://feast-survey.github.io)** program, which investigates how stellar feedback from massive stars shapes the surrounding interstellar medium and influences galaxy evolution. I focus on the morphological and physical characterization of star-forming regions in nearby galaxies, combining observations from the **James Webb Space Telescope** and other facilities. 
-[Explore FEAST](https://feast-astronomy.com){: .btn .btn--primary}
+[Explore FEAST](https://feast-survey.github.io){: .btn .btn--primary}
 ---
 
 ## Mapping HII Regions and PDRs {#hii-pdrs}
