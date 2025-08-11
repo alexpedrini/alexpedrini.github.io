@@ -95,8 +95,8 @@ In the figure, we show the young cluster population in M83 from the **[paper](ht
   <img src="/assets/images/sed_fit.png" alt="SED Plot" style="width:100%;">
 </div>
 
-I apply **SED fitting** to multi-wavelength photometry (UV to IR) to estimate ages, masses, and extinctions of clusters and regions. 
-This is crucial for reconstructing the star formation history.
+The Hubble Space Telescope and the James Webb Space Telescope open a window onto emerging young star clusters, capturing their light across a wide range of wavelengths — from 0.3 to 5 &mu;m. By analyzing this light with Spectral Energy Distribution (SED) fitting, we can uncover key properties of the clusters, such as their ages, masses, and how much dust obscures them.
+In my PhD, I use the SED fitting code **[CIGALE](https://cigale.lam.fr)** to explore these questions. Yet, the near-infrared SED of young star clusters remains poorly understood. A paper I am leading as corresponding author, now submitted to the **[Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X)**, tackles the challenges of interpreting this part of the spectrum.
 
 <div style="clear:both;"></div>
 
