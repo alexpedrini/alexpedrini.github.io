@@ -29,7 +29,7 @@ feature_row:
     url: "#hii-pdrs"
     btn_label: "Read More"
     btn_class: "btn--primary"
-- image_path: /assets/images/M83_clusters.png
+  - image_path: /assets/images/M83_clusters.png
     alt: "Star Clusters"
     title: "Star Cluster Identification"
     excerpt: "Detecting and classifying young star clusters using multi-band imaging to study their ages, masses, and environments."
@@ -61,7 +61,6 @@ winds, radiation, and supernovae — disperses the surrounding gas and dust
 in young star-forming regions.  
 My work within FEAST focuses on mapping and understanding these processes 
 across different galactic environments.
-
 ---
 
 ## Mapping HII Regions and PDRs {#hii-pdrs}
