@@ -63,24 +63,23 @@ In my research, I focus on the morphological and physical characterization of st
 
 ---
 
-## Mapping HII Regions and PDRs in NGC 628 {#hii-pdrs}
+## Mapping HII Regions and PDRs {#hii-pdrs}
 <div style="float:left; margin-right:20px; width:400px;">
   <img src="/assets/images/paper1_screen.jpg" alt="Example Map" style="width:100%;">
 </div>
 
-I identify and map **HII regions** (ionized hydrogen) and **PDRs** (photodissociation regions) in nearby galaxies using tracers such as Hα emission and PAH features. 
-These maps reveal how young stars shape the surrounding interstellar medium.
+With the **James Webb Space Telescope**, we have the opportunity to identify HII regions and photo-dissociation regions (PDRs) at a resolution of a few parsec in nearby galaxies. These regions are direct products of stellar feedback from emerging young star clusters. In the Near Infrared, HII regions are traced by recombination lines (e.g., Pa$\alpha$ at 1.87 $\mu$m). PDRs are colder and denser and here molecules such as polycyclic aromatic hydrocarbons (PAHs) can survive, making possible to observe them at 3.3 $\mu$m with JWST/NIRCam and 7.7 $\mu$m with JWST/MIRI. I have developed a methodology to identify these regions and I studied how PAHs get destroyed in intense stellar environment. You can find the correponding paper **[here](https://iopscience.iop.org/article/10.3847/1538-4357/ad534d)**, where I am the corresponding author. In the figure, taken from the aforememntioned paper, I show a star forming complex, where HII regions are identified with orange contours, and PDRs in white.
 
 <div style="clear:both;"></div>
 
 ---
 
-## Star Cluster Identification {#star-clusters}
+## Identification of emerging young star clusters {#star-clusters}
 <div style="float:right; margin-left:20px; width:400px;">
   <img src="/assets/images/M83_clusters.png" alt="Star Cluster Zoom" style="width:100%;">
 </div>
 
-Using high-resolution imaging from HST and JWST, I detect and classify young star clusters.  
+Using high-resolution imaging from HST and JWST, I detect and classify young star clusters. 
 This allows us to connect their properties to their environment and evolutionary stage.
 
 <div style="clear:both;"></div>
@@ -92,7 +91,7 @@ This allows us to connect their properties to their environment and evolutionary
   <img src="/assets/images/934_best_model.pdf" alt="SED Plot" style="width:100%;">
 </div>
 
-I apply **SED fitting** to multi-wavelength photometry (UV to IR) to estimate ages, masses, and extinctions of clusters and regions.  
+I apply **SED fitting** to multi-wavelength photometry (UV to IR) to estimate ages, masses, and extinctions of clusters and regions. 
 This is crucial for reconstructing the star formation history.
 
 <div style="clear:both;"></div>
