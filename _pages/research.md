@@ -1,5 +1,5 @@
 ---
-title: "Research Interests"
+title: "Discover my Research"
 layout: splash
 permalink: /research/
 header:
