@@ -54,10 +54,10 @@ My research is embedded within the **[FEAST](https://feast-survey.github.io)** p
 ---
 
 ## Mapping HII Regions and PDRs {#hii-pdrs}
-I identify and map **HII regions** (ionized hydrogen) and **PDRs** (photodissociation regions) in nearby galaxies using tracers such as Hα emission and PAH features.  
+I identify and map **HII regions** (ionized hydrogen) and **PDRs** (photodissociation regions) in nearby galaxies using tracers such as Hα emission and PAH features. 
 These maps reveal how young stars shape the surrounding interstellar medium.
 
-#![Example Map](/assets/images/hii_pdr_map.jpg)
+![Example Map](/assets/images/paper1_screen.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ These maps reveal how young stars shape the surrounding interstellar medium.
 Using high-resolution imaging from HST and JWST, I detect and classify young star clusters.  
 This allows us to connect their properties to their environment and evolutionary stage.
 
-#![Star Cluster Zoom](/assets/images/star_cluster_zoom.jpg)
+#![Star Cluster Zoom](/assets/images/M83_clusters.png)
 
 ---
 
@@ -73,11 +73,11 @@ This allows us to connect their properties to their environment and evolutionary
 I apply **SED fitting** to multi-wavelength photometry (UV to IR) to estimate ages, masses, and extinctions of clusters and regions.  
 This is crucial for reconstructing the star formation history.
 
-#![SED Plot](/assets/images/sed_plot_example.jpg)
+#![SED Plot](/assets/images/934_best_model.pdf)
 
 ---
 
 ## SLUG Modelling {#slug}
 I use **SLUG** simulations to model stochastic effects in stellar populations, compare them to observations, and understand cluster evolution.
 
-#![SLUG Schematic](/assets/images/slug_diagram.jpg)
+#![SLUG Schematic](/assets/images/slug.png)
