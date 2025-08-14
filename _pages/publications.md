@@ -29,11 +29,11 @@ toc_icon: "gear"
     </li>
 </ol>
 
-<ol start="3">
+<ol start="2">
     <li style="overflow:auto;">
         <img src="/assets/images/paper1cover.jpg" alt="Cover image for the paper" 
              style="float:left; padding: 15px 30px; width:200px; height:auto;">
-        <strong>Feedback in Emerging extragAlactic Star clusTers, FEAST: JWST spots PAH destruction in NGC 628 during the emerging phase of star formationm </strong><br>
+        <strong>Feedback in Emerging extragAlactic Star clusTers, FEAST: JWST spots PAH destruction in NGC 628 during the emerging phase of star formation </strong><br>
         <em>with A. Adamo, D. Calzetti, A. Bik, et al.</em><br>
         The Astrophysical Journal, Volume 971, Issue 1, id.32, 20 pp<br>
         Links: <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad534d">Paper</a>
@@ -41,5 +41,16 @@ toc_icon: "gear"
         <hr>
     </li>
 </ol>
-
+<ol start="1">
+    <li style="overflow:auto;">
+        <img src="/assets/images/papermastercover.jpeg" alt="Cover image for the paper" 
+             style="float:left; padding: 15px 30px; width:200px; height:auto;">
+        <strong>MUSE sneaks a peek at extreme ram-pressure stripping events - V. Towards a complete view of the galaxy cluster A1367 </strong><br>
+        <em>with M. Fossati, G. Gavazzi, M. Fumagalli, et al.</em><br>
+        Monthly Notices of the Royal Astronomical Society, Volume 511, Issue 4, pp.5180-5197<br>
+        Links: <a href="https://academic.oup.com/mnras/article/511/4/5180/6524908?login=true">Paper</a>
+        <br clear="left"/>
+        <hr>
+    </li>
+</ol>
 
