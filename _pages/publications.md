@@ -31,7 +31,7 @@ toc_icon: "gear"
 
 <ol start="3">
     <li style="overflow:auto;">
-        <img src="/assets/images/paper1cover.png" alt="Cover image for the paper" 
+        <img src="/assets/images/paper1cover.jpg" alt="Cover image for the paper" 
              style="float:left; padding: 15px 30px; width:200px; height:auto;">
         <strong>Feedback in Emerging extragAlactic Star clusTers, FEAST: JWST spots PAH destruction in NGC 628 during the emerging phase of star formationm </strong><br>
         <em>with A. Adamo, D. Calzetti, A. Bik, et al.</em><br>
