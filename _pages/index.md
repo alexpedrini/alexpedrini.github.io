@@ -30,3 +30,8 @@ I combine these data with computer models to uncover the physical properties of 
 
 
 {% include feature_row %}
+
+
+<p style="font-size:0.8em; text-align:center; margin-top:1em;">
+Figure credits: ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team
+</p>
