@@ -1,5 +1,6 @@
 ---
 title: "Hi, I'm Alex Pedrini!"
+seo_title: "Alex Pedrini" 
 layout: archive
 sitemap: true
 permalink: /
