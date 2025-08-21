@@ -1,5 +1,5 @@
 ---
-seotitle: "Alex Pedrini"      # SEO and <title> tag
+seo_title: "Alex Pedrini"      # SEO and <title> tag
 title: "Hi, I'm Alex Pedrini!" 
 layout: archive
 sitemap: true
