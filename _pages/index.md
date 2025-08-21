@@ -1,7 +1,6 @@
 ---
-title: "Alex Pedrini"      # SEO and <title> tag
-header:
-  title: "Hi, I'm Alex Pedrini!" 
+seotitle: "Alex Pedrini"      # SEO and <title> tag
+title: "Hi, I'm Alex Pedrini!" 
 layout: archive
 sitemap: true
 permalink: /
