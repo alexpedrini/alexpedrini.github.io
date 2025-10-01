@@ -27,7 +27,7 @@ Just as in astronomy, I approach food with curiosity and precision, always eager
 <div class="grid__wrapper">
   <figure class="grid__item">
     <img src="/assets/images/food/zucca.jpg" alt="Pumpkins"/>
-    <figcaption>Pumpkins</figcaption>
+    <figcaption>Pumpkins in the Stockholm countryside</figcaption>
   </figure>
   <figure class="grid__item">
     <img src="/assets/images/food/gnocchi.jpg" alt="Gnocchi di zucca"/>
@@ -41,6 +41,23 @@ Just as in astronomy, I approach food with curiosity and precision, always eager
     <img src="/assets/images/food/funghi.jpg" alt="Mushrooms"/>
     <figcaption>Mushrooms in a swedish forest</figcaption>
   </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/food/io.jpg" alt="Me"/>
+    <figcaption>A selfie I took after I found a beautiful porcino</figcaption>
+  </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/food/risotto.jpg" alt="Risotto"/>
+    <figcaption>One of my risotti</figcaption>
+  </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/food/chicken.jpg" alt="wings"/>
+    <figcaption>The best chicken wings I've eaten, in Dublin</figcaption>
+  </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/food/verdura.jpg" alt="Veggies"/>
+    <figcaption>egetables from farmers outside Stockholm</figcaption>
+  </figure>
+  
 </div>
 
 

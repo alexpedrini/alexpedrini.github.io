@@ -36,11 +36,11 @@ search: false
 .grid__wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200, 1fr)); /* responsive columns */
-  gap: 2rem; /* spacing between items */
+  gap: 1rem; /* spacing between items */
 
   width: 90%;          /* constrain overall grid width */
   margin: 0 auto;      /* center the grid on the page */
-  padding: 2rem 0;     /* optional top/bottom padding */
+  padding: 1rem 0;     /* optional top/bottom padding */
 }
 
 /* GRID ITEM */
