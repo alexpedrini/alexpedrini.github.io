@@ -32,23 +32,37 @@ search: false
   }
 }
 }
+/* GRID WRAPPER */
 .grid__wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
-  justify-items: center; /* center image+caption inside each cell */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* responsive columns */
+  gap: 2rem; /* spacing between items */
+  justify-items: center; /* center content inside each cell */
+  width: 90%;          /* constrain overall grid width */
+  margin: 0 auto;      /* center the grid on the page */
+  padding: 2rem 0;     /* optional top/bottom padding */
 }
 
+/* GRID ITEM */
+.grid__item {
+  display: flex;
+  flex-direction: column; /* stack image + caption */
+  align-items: center;
+}
+
+/* IMAGE STYLING */
 .grid__item img {
   width: 100%;
-  border-radius: 8px;
-  max-width: 350px; /* make them bigger but not too huge */
+  max-width: 350px; /* image won't get too large */
+  border-radius: 12px;
   display: block;
 }
 
+/* CAPTION STYLING */
 .grid__item figcaption {
   text-align: center;
   font-size: 1rem;
   margin-top: 0.5rem;
   color: #555;
+  max-width: 350px;
 }
