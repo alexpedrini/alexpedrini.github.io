@@ -68,11 +68,29 @@ Outside research, I channel my energy into adventures, sports, and challenges th
     <img src="/assets/images/energy/oland.jpg" alt="Oland"/>
     <figcaption>Byrums Raukar in Öland, Sweden</figcaption>
   </figure>
-  
- <div class="grid__wrapper">
+  <figure class="grid__item">
+    <img src="/assets/images/energy/presolana.jpg" alt="Presolana"/>
+    <figcaption>View of the Presolana mountain from the Albani Refuge (1939 m a.s.l.), Orobie Prealps, Bergamo</figcaption>
+  </figure>
   <figure class="grid__item">
     <img src="/assets/images/energy/vasa.jpg" alt="Vasa"/>
     <figcaption>The moment I finished Vasaloppet, a 90 km cross country skiing race</figcaption>
+  </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/energy/laxsjon.jpg" alt="Dalsland"/>
+    <figcaption>Camping in the Dalsland swedish province.</figcaption>
+  </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/energy/frozen.jpg" alt="Lake"/>
+    <figcaption>Cold bath in a frozen lake in Stockholm</figcaption>
+  </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/energy/bergamo.jpg" alt="Bergamo"/>
+    <figcaption>The skyline of Bergamo, Italy</figcaption>
+  </figure>
+  <figure class="grid__item">
+    <img src="/assets/images/energy/bikeArchi.jpg" alt="Bike"/>
+    <figcaption>Biking in the Stockholm Archipelago</figcaption>
   </figure>
   
   
