@@ -35,7 +35,7 @@ search: false
 /* GRID WRAPPER */
 .grid__wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 500)); /* responsive columns */
+  grid-template-columns: repeat(auto-fit, minmax(150px, 700px)); /* responsive columns */
   gap: 1rem; /* spacing between items */
 
   width: 90%;          /* constrain overall grid width */
