@@ -35,17 +35,20 @@ search: false
 .grid__wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1rem;
+  gap: 2rem;
+  justify-items: center; /* center image+caption inside each cell */
 }
 
 .grid__item img {
   width: 100%;
   border-radius: 8px;
+  max-width: 350px; /* make them bigger but not too huge */
+  display: block;
 }
 
 .grid__item figcaption {
   text-align: center;
-  font-size: 0.9rem;
-  margin-top: 0.25rem;
-  color: #666;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  color: #555;
 }
