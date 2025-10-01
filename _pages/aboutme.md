@@ -8,23 +8,7 @@ header:
   overlay_filter: 0.1 # darkens the background so text is readable
   overlay_color: "#000"
   caption: "Sunset on the Tjärö island, in Sweden"
-.grid__wrapper {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1rem;
-}
 
-.grid__item img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-.grid__item figcaption {
-  text-align: center;
-  font-size: 0.9rem;
-  margin-top: 0.25rem;
-  color: #666;
-}
 ---
 
 When I am not looking at the stars and galaxies in our sky, I have many interests and passions that I love to follow. I am very curious person, and my curiosity doesn't stop at the edge of galaxies. The skills I have developed as a researcher, the attention to details and working with complex systems, extend into other areas of my life.
