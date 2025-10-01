@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-permalink: /about/
+permalink: /aboutme/
 layout: splash
 author_profile: true
 header:
