@@ -74,7 +74,7 @@ Outside research, I channel my energy into adventures, sports, and challenges th
   </figure>
   <figure class="grid__item">
     <img src="/assets/images/energy/vasa.jpg" alt="Vasa"/>
-    <figcaption>The moment I finished Vasaloppet, a 90 km cross country skiing race</figcaption>
+    <figcaption>My face when I finished Vasaloppet, a 90 km cross country skiing race</figcaption>
   </figure>
   <figure class="grid__item">
     <img src="/assets/images/energy/laxsjon.jpg" alt="Dalsland"/>
