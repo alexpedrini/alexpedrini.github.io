@@ -12,7 +12,7 @@ excerpt: "When I am not looking at the stars and galaxies in our sky, I have man
 ---
 
 
-
+## The love I have for food
 
 **Food** is a place where I find both inspiration and purpose. 
 I love cooking and exploring the value of food as more than just nourishment. For me, it’s all about creativity and respect for food commodities. Food is life and art. 
@@ -57,4 +57,23 @@ Just as in astronomy, I approach food with curiosity and precision, always eager
   
 </div>
 
+---
 
+## My Energy in the World
+
+Outside research, I channel my energy into adventures, sports, and challenges that push me forward.  Have a look at a few examples in the following gallery!
+
+<div class="grid__wrapper">
+  <figure class="grid__item">
+    <img src="/assets/images/energy/oland.jpg" alt="Oland"/>
+    <figcaption>Byrums Raukar in Öland, Sweden</figcaption>
+  </figure>
+  
+ <div class="grid__wrapper">
+  <figure class="grid__item">
+    <img src="/assets/images/energy/vasa.jpg" alt="Vasa"/>
+    <figcaption>The moment I finished Vasaloppet, a 90 km cross country skiing race</figcaption>
+  </figure>
+  
+  
+</div>
