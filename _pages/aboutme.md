@@ -52,7 +52,7 @@ Just as in astronomy, I approach food with curiosity and precision, always eager
   </figure>
   <figure class="grid__item">
     <img src="/assets/images/food/verdura.jpg" alt="Veggies"/>
-    <figcaption>egetables from farmers outside Stockholm</figcaption>
+    <figcaption>Vegetables from farmers outside Stockholm</figcaption>
   </figure>
   
 </div>
