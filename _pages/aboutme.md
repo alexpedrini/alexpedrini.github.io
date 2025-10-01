@@ -22,15 +22,23 @@ I love cooking and exploring the value of food as more than just nourishment. Fo
 
 Just as in astronomy, I approach food with curiosity and precision, always eager to learn and test new ideas. One of my dreams is to bring what I’ve learned in astronomy, such as systems thinking and analysis, into the food system of the future.
 
-![Pumpkins](/assets/images/food/zucca.jpg "Pumpkins outside Stockholm")
-![Gnocchi di zucca](/assets/images/food/gnocchi.jpg "Gnocchi with pears and gorgonzola")
-![Polenta, the symbol of my hometown Bergamo](/assets/images/food/polenta.jpg "Polenta, the symbol of my hometown Bergamo")
-![Mushrooms in a sweidish forest](/assets/images/food/funghi.jpg "Mushrooms in a sweidish forest")
-{: .gallery}
-![Me](/assets/images/food/io.jpg)
-![Risotto](/assets/images/food/risotto.jpg)
-![The best chiken wings in Dublin](/assets/images/food/chicken.jpg)
-![Vegetables from farmers](/assets/images/food/verdura.jpg)
-{: .gallery}
+<div class="grid__wrapper">
+  <figure>
+    <img src="/assets/images/food/zucca.jpg" alt="Pumpkins"/>
+    <figcaption>Pumpkins</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/food/gnocchi.jpg" alt="Gnocchi di zucca"/>
+    <figcaption>Gnocchi di zucca</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/food/polenta.jpg" alt="Polenta"/>
+    <figcaption>Polenta, symbol of Bergamo</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/food/funghi.jpg" alt="Mushrooms"/>
+    <figcaption>Mushrooms in a Swedish forest</figcaption>
+  </figure>
+</div>
 *My relation with food*
 
