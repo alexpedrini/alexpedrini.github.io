@@ -22,6 +22,8 @@ I love cooking and exploring the value of food as more than just nourishment. Fo
 
 Just as in astronomy, I approach food with curiosity and precision, always eager to learn and test new ideas. One of my dreams is to bring what I’ve learned in astronomy, such as systems thinking and analysis, into the food system of the future.
 
+
+*My relation with food*
 <div class="grid__wrapper">
   <figure class="grid__item">
     <img src="/assets/images/food/zucca.jpg" alt="Pumpkins"/>
@@ -29,16 +31,16 @@ Just as in astronomy, I approach food with curiosity and precision, always eager
   </figure>
   <figure class="grid__item">
     <img src="/assets/images/food/gnocchi.jpg" alt="Gnocchi di zucca"/>
-    <figcaption>Gnocchi di zucca</figcaption>
+    <figcaption>Gnocchi di zucca, gorgozola and a pear</figcaption>
   </figure>
   <figure class="grid__item">
     <img src="/assets/images/food/polenta.jpg" alt="Polenta"/>
-    <figcaption>Polenta, symbol of Bergamo</figcaption>
+    <figcaption>Polenta, symbol of my hometown Bergamo</figcaption>
   </figure>
   <figure class="grid__item">
     <img src="/assets/images/food/funghi.jpg" alt="Mushrooms"/>
-    <figcaption>Mushrooms in a Swedish forest</figcaption>
+    <figcaption>Mushrooms in a swedish forest</figcaption>
   </figure>
 </div>
-*My relation with food*
+
 
