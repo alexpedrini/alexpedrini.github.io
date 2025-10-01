@@ -8,13 +8,10 @@ header:
   overlay_filter: 0.1 # darkens the background so text is readable
   overlay_color: "#000"
   caption: "Sunset on the Tjärö island, in Sweden"
-
+excerpt: "When I am not looking at the stars and galaxies in our sky, I have many interests and passions that I love to follow. I am very curious person, and my curiosity doesn't stop at the edge of galaxies. The skills I have developed as a researcher, the attention to details and working with complex systems, extend into other areas of my life."
 ---
 
-When I am not looking at the stars and galaxies in our sky, I have many interests and passions that I love to follow. I am very curious person, and my curiosity doesn't stop at the edge of galaxies. The skills I have developed as a researcher, the attention to details and working with complex systems, extend into other areas of my life.
 
-
----
 
 
 **Food** is a place where I find both inspiration and purpose. 
