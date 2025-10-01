@@ -35,7 +35,7 @@ search: false
 /* GRID WRAPPER */
 .grid__wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* responsive columns */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* responsive columns */
   gap: 2rem; /* spacing between items */
   justify-items: center; /* center content inside each cell */
   width: 90%;          /* constrain overall grid width */
@@ -53,9 +53,8 @@ search: false
 /* IMAGE STYLING */
 .grid__item img {
   width: 100%;
-  max-width: 1000px;
+  height: auto; /* keep aspect ratio */
   border-radius: 12px;
-  display: block;
 }
 
 /* CAPTION STYLING */
