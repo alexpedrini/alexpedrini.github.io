@@ -4,7 +4,7 @@ permalink: /aboutme/
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/energy/tjaro.jpg    # full-width background image
+  overlay_image: /assets/images/energy/tjaro_crop.jpg    # full-width background image
   overlay_filter: 0.1 # darkens the background so text is readable
   overlay_color: "#000"
   caption: "Sunset on the Tjärö island, in Sweden"
