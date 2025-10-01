@@ -37,7 +37,7 @@ search: false
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* responsive columns */
   gap: 2rem; /* spacing between items */
-  justify-items: center; /* center content inside each cell */
+
   width: 90%;          /* constrain overall grid width */
   margin: 0 auto;      /* center the grid on the page */
   padding: 2rem 0;     /* optional top/bottom padding */
@@ -48,6 +48,7 @@ search: false
   display: flex;
   flex-direction: column; /* stack image + caption */
   align-items: center;
+  width: 100%;
 }
 
 /* IMAGE STYLING */
@@ -55,6 +56,7 @@ search: false
   width: 100%;
   height: auto; /* keep aspect ratio */
   border-radius: 12px;
+  max-width: none;
 }
 
 /* CAPTION STYLING */
