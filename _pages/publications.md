@@ -23,7 +23,7 @@ toc_icon: "gear"
              style="float:left; padding: 15px 30px; width:200px; height:auto;">
         <strong>The near infrared SED of young star clusters in the FEAST galaxies: Missing ingredients at 1 - 5 &mu;m </strong><br>
         <em>with A. Adamo, A. Bik, D. Calzetti, S. Linden, et al.</em><br>
-        The Astrophysical Journal, Volume 992, Issue 1, id.96, 20 pp<br>
+        The Astrophysical Journal, Volume 992, Issue 1, id.96, 21 pp<br>
         Links: <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae0182">Paper</a>
         <br clear="left"/>
         <hr>
