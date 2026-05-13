@@ -3,8 +3,8 @@ title: "Discover my Research"
 layout: splash
 permalink: /research/
 header:
-  overlay_image: /assets/images/ngc628_NIRCAM.jpg  # full-width background image
-  overlay_filter: 0.4 # darkens the background so text is readable
+  overlay_image: /assets/images/spiral_screen.jpg  # full-width background image
+  overlay_filter: 0.3 # darkens the background so text is readable
   overlay_color: "#000"
   caption: "Credit: ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
 excerpt: "I'm a member of the FEAST (Feedback in Emerging extragAlactic Star clusTers) program, studying star formation and stellar feedback in nearby galaxies."
