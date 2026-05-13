@@ -71,11 +71,11 @@ In my research, I focus on the morphological and physical characterization of st
 ---
 
 ## The emerging timescales of young star clusters {#emer}
-<div style="float:left; margin-right:20px; width:400px;">
+<div style="float:right; margin-left:20px; width:400px;">
   <img src="/assets/images/emerging_single.webp" alt="Example Map" style="width:80%;">
 </div>
 
-Exploiting the power of the Hubble and James Webb Space Telescopes, we have observed **nearly nine thousand** young star clusters across four FEAST galaxies, all in the process of emerging from their natal clouds.
+Exploiting the power of the Hubble and James Webb Space Telescopes, we have observed **nearly nine thousands** young star clusters across four FEAST galaxies, all in the process of emerging from their natal clouds.
 The results of this analysis, published in **[Nature Astronomy](https://www.nature.com/articles/s41550-026-02857-y)**, show that more massive star clusters disperse their natal gas more rapidly than lower-mass clusters. The most massive clusters have fully emerged and cleared their surrounding gas within approximately five million years, while lower-mass clusters typically take between seven and eight million years to emerge from their birth environments.
 These findings provide new insights into star formation and stellar feedback processes, and place important constraints on theories of planet formation in environments dominated by massive stars and clusters. The publication has also been featured in several press releases and media articles, which can be accessed **[here](https://feast-survey.github.io/outreach/)**.
 
