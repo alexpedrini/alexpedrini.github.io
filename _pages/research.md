@@ -6,8 +6,8 @@ header:
   overlay_image: /assets/images/spiral_screen.jpg  # full-width background image
   overlay_filter: 0.3 # darkens the background so text is readable
   overlay_color: "#000"
-  caption: "Credit: ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
-excerpt: "I'm a member of the FEAST (Feedback in Emerging extragAlactic Star clusTers) program, studying star formation and stellar feedback in nearby galaxies."
+  caption: "Credit: ESA/Webb, NASA & CSA, A. Pedrini, A. Adamo (Stockholm University) and the FEAST JWST team"
+excerpt: "I study star formation and stellar feedback, investigating how young star clusters shape their surrounding environments and influence galaxies across cosmic scales."
 intro: 
   - excerpt: >
       My research is embedded within the **[FEAST](https://feast-survey.github.io)** program, 
@@ -56,10 +56,24 @@ feature_row:
 
 ![FEAST Logo](/assets/images/logoFEASTvec.svg){: .align-right width="200px"}
 
-My research is embedded within the FEAST project, a James Webb Space Telescope Cycle 1 program (PI Angela Adamo) that aims to understand how stellar feedback from massive stars shapes the surrounding interstellar medium and influences galaxy evolution. To achieve this, we have observed six galaxies within 10 Mpc: the well-studied M51, M83, NGC 628, NGC 4449, NGC 4490, and NGC 4495. These galaxies feature rich catalogs of archival observations collected from the largest ground- and space-based telescopes.
+My research is embedded within the FEAST (Feedback in Emerging extragAlactic Star clusTers) project, a James Webb Space Telescope Cycle 1 program (PI Angela Adamo) that aims to understand how stellar feedback from massive stars shapes the surrounding interstellar medium and influences galaxy evolution. To achieve this, we have observed six galaxies within 10 Mpc: the well-studied M51, M83, NGC 628, NGC 4449, NGC 4490, and NGC 4495. These galaxies feature rich catalogs of archival observations collected from the largest ground- and space-based telescopes.
 In my research, I focus on the morphological and physical characterization of star-forming regions and emerging young star clusters in these galaxies, seeking to uncover the emergence phase of star formation and its impact across galactic scales.
 
 [Explore FEAST](https://feast-survey.github.io){: .btn .btn--primary}
+
+---
+
+## Mapping HII Regions and PDRs {#hii-pdrs}
+<div style="float:left; margin-right:20px; width:400px;">
+  <img src="/assets/images/emerging_single.webp" alt="Example Map" style="width:100%;">
+</div>
+
+Exploiting the power of the Hubble and James Webb Space Telescopes, we have observed **nearly nine thousand** young star clusters across four FEAST galaxies, all in the process of emerging from their natal clouds.
+The results of this analysis, published in **[Nature Astronomy](https://www.nature.com/articles/s41550-026-02857-y)**, show that more massive star clusters disperse their natal gas more rapidly than lower-mass clusters. The most massive clusters have fully emerged and cleared their surrounding gas within approximately five million years, while lower-mass clusters typically take between seven and eight million years to emerge from their birth environments.
+These findings provide new insights into star formation and stellar feedback processes, and place important constraints on theories of planet formation in environments dominated by massive stars and clusters.
+
+
+<div style="clear:both;"></div>
 
 ---
 
