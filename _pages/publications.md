@@ -17,6 +17,19 @@ toc_icon: "gear"
 
 <h2>Publications as Corresponding Author</h2>
 
+<ol start="4">
+    <li style="overflow:auto;">
+        <img src="/assets/images/paper3cover.webp" alt="Cover image for the paper" 
+             style="float:left; padding: 15px 30px; width:200px; height:auto;">
+        <strong>The emerging timescale of young star clusters regulated by cluster stellar mass </strong><br>
+        <em>with A. Adamo, D. Calzetti, A.Bik, T. Haworth, et al.</em><br>
+        Nature Astronomy <br>
+        Links: <a href="https://www.nature.com/articles/s41550-026-02857-y">Paper</a>
+        <br clear="left"/>
+        <hr>
+    </li>
+</ol>
+
 <ol start="3">
     <li style="overflow:auto;">
         <img src="/assets/images/paper2cover.png" alt="Cover image for the paper" 
