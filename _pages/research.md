@@ -23,6 +23,13 @@ feature_row:
     #url: "#hii-pdrs"
     btn_label: "Read More"
     btn_class: "btn--primary"
+ - image_path: /assets/images/emerging_single.webp
+    alt: "The emerging timescales"
+    title: "The emerging timescales of young star clusters"
+    excerpt: "Identifying and mapping ionized gas (HII regions) and photodissociation regions (PDRs) in nearby galaxies to trace the influence of massive stars."
+    url: "#emer"
+    btn_label: "Read More"
+    btn_class: "btn--primary"   
   - image_path: /assets/images/paper1_screen.jpg
     alt: "HII regions and PDRs"
     title: "Mapping HII Regions and PDRs in NGC 628"
@@ -63,9 +70,9 @@ In my research, I focus on the morphological and physical characterization of st
 
 ---
 
-## Mapping HII Regions and PDRs {#hii-pdrs}
+## The emerging timescales of young star clusters {#emer}
 <div style="float:left; margin-right:20px; width:400px;">
-  <img src="/assets/images/emerging_single.webp" alt="Example Map" style="width:100%;">
+  <img src="/assets/images/emerging_single.webp" alt="Example Map" style="width:80%;">
 </div>
 
 Exploiting the power of the Hubble and James Webb Space Telescopes, we have observed **nearly nine thousand** young star clusters across four FEAST galaxies, all in the process of emerging from their natal clouds.
