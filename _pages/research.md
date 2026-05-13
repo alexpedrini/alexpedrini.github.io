@@ -23,7 +23,7 @@ feature_row:
     #url: "#hii-pdrs"
     btn_label: "Read More"
     btn_class: "btn--primary"
- - image_path: /assets/images/emerging_single.webp
+  - image_path: /assets/images/emerging_single.webp
     alt: "The emerging timescales"
     title: "The emerging timescales of young star clusters"
     excerpt: "Identifying and mapping ionized gas (HII regions) and photodissociation regions (PDRs) in nearby galaxies to trace the influence of massive stars."
