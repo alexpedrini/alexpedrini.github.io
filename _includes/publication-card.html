@@ -11,6 +11,7 @@
     <p class="pub-card__authors">{{ pub.authors | replace: "A. Pedrini", "<strong>A. Pedrini</strong>" }}</p>
     {%- if pub.note %}<p class="pub-card__note">{{ pub.note }}</p>{% endif %}
     <p class="pub-card__links">
+      {%- if pub.diva %}<a class="btn btn--primary btn--small" href="{{ pub.diva }}" target="_blank" rel="noopener">Thesis (DiVA)</a>{% endif %}
       {%- if pub.paper %}<a class="btn btn--primary btn--small" href="{{ pub.paper }}" target="_blank" rel="noopener">Paper</a>{% endif %}
       {%- if pub.arxiv %} <a class="btn btn--inverse btn--small" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
       {%- if pub.ads %} <a class="btn btn--inverse btn--small" href="{{ pub.ads }}" target="_blank" rel="noopener">ADS</a>{% endif %}

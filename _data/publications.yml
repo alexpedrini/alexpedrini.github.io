@@ -9,6 +9,7 @@ thesis:
     year: 2026
     note: "Defended on 5 November 2026"
     image: /assets/images/ngc628_NIRCAM.jpg
+    diva: "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2100578"
 
 first_author:
   - title: "The emerging timescale of young star clusters regulated by cluster stellar mass"
