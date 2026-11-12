@@ -1,0 +1,58 @@
+# Publications shown on /publications/
+# To add a paper, copy an entry and edit it. Optional fields: arxiv, ads, press, note.
+# Your own name in "authors" is highlighted automatically (A. Pedrini).
+
+thesis:
+  - title: "Young star clusters in the act of emerging: a JWST and HST view of stellar feedback and timescales"
+    authors: "A. Pedrini"
+    venue: "PhD Thesis, Stockholm University"
+    year: 2026
+    note: "Defended on 5 November 2026"
+    image: /assets/images/ngc628_NIRCAM.jpg
+
+first_author:
+  - title: "The emerging timescale of young star clusters regulated by cluster stellar mass"
+    authors: "A. Pedrini, A. Adamo, D. Calzetti, A. Bik, T. Haworth, et al."
+    venue: "Nature Astronomy"
+    year: 2026
+    image: /assets/images/paper3cover.webp
+    paper: https://www.nature.com/articles/s41550-026-02857-y
+    ads: "https://ui.adsabs.harvard.edu/search/q=doi%3A%2210.1038%2Fs41550-026-02857-y%22"
+    press: https://feast-survey.github.io/outreach/
+    # arxiv: https://arxiv.org/abs/XXXX.XXXXX
+
+  - title: "The near infrared SED of young star clusters in the FEAST galaxies: Missing ingredients at 1 - 5 &mu;m"
+    authors: "A. Pedrini, A. Adamo, A. Bik, D. Calzetti, S. Linden, et al."
+    venue: "The Astrophysical Journal, 992, 96"
+    year: 2025
+    image: /assets/images/paper2cover.png
+    paper: https://iopscience.iop.org/article/10.3847/1538-4357/ae0182
+    ads: https://ui.adsabs.harvard.edu/abs/2025ApJ...992...96P
+    # arxiv: https://arxiv.org/abs/XXXX.XXXXX
+
+  - title: "Feedback in Emerging extragAlactic Star clusTers, FEAST: JWST spots PAH destruction in NGC 628 during the emerging phase of star formation"
+    authors: "A. Pedrini, A. Adamo, D. Calzetti, A. Bik, et al."
+    venue: "The Astrophysical Journal, 971, 32"
+    year: 2024
+    image: /assets/images/paper1cover.jpg
+    paper: https://iopscience.iop.org/article/10.3847/1538-4357/ad534d
+    ads: https://ui.adsabs.harvard.edu/abs/2024ApJ...971...32P
+    # arxiv: https://arxiv.org/abs/XXXX.XXXXX
+
+  - title: "MUSE sneaks a peek at extreme ram-pressure stripping events - V. Towards a complete view of the galaxy cluster A1367"
+    authors: "A. Pedrini, M. Fossati, G. Gavazzi, M. Fumagalli, et al."
+    venue: "Monthly Notices of the Royal Astronomical Society, 511, 5180"
+    year: 2022
+    image: /assets/images/papermastercover.jpeg
+    paper: https://academic.oup.com/mnras/article/511/4/5180/6524908
+    ads: https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.5180P
+    # arxiv: https://arxiv.org/abs/XXXX.XXXXX
+
+# Co-authored papers: uncomment and complete (needs the exact title).
+co_author:
+  # - title: "PAPER TITLE"
+  #   authors: "A. Knutas, A. Adamo, A. Pedrini, et al."
+  #   venue: "Journal"
+  #   year: 2025
+  #   image: /assets/images/M83_clusters.png
+  #   arxiv: https://arxiv.org/abs/2505.08874

@@ -24,7 +24,8 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-I am a PhD student in the Department of Astronomy at Stockholm University, working with Angela Adamo, Arjan Bik, and Daniela Calzetti.
+On 5 November 2026 I defended my PhD in the Department of Astronomy at Stockholm University, with a thesis titled *"Young star clusters in the act of emerging: a JWST and HST view of stellar feedback and timescales"*. My supervisors were Angela Adamo, Arjan Bik, and Daniela Calzetti. **I am currently looking for a postdoctoral position** — you can find my CV [here](/cv/).
+
 I explore the mysteries of how stars form and how they shape their galactic environments.
 My work spans scales from small molecular clouds to entire galaxies, using observations from the largest telescopes in space.
 I combine these data with computer models to uncover the physical properties of young star clusters and the processes driving their evolution. Before starting my PhD, I completed my master’s thesis at the University of Milano-Bicocca, where I studied galaxies with ionised-gas tails tens of parsecs long, created as they fell into galaxy clusters and were stripped by the surrounding medium through ram pressure.
