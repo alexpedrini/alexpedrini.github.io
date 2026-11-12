@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-On 5 November 2026 I defended my PhD in the Department of Astronomy at Stockholm University, with a thesis titled *"Young star clusters in the act of emerging: a JWST and HST view of stellar feedback and timescales"*. My supervisors were Angela Adamo, Arjan Bik, and Daniela Calzetti. **I am currently looking for a postdoctoral position** — you can find my CV [here](/cv/).
+On 5 November 2026 I defended my PhD in the Department of Astronomy at Stockholm University, with a thesis titled *"Young star clusters in the act of emerging: a JWST and HST view of stellar feedback and timescales"*. My supervisors were Angela Adamo, Arjan Bik, and Daniela Calzetti. I am currently looking for a postdoctoral position — you can find my CV [here](/cv/).
 
 I explore the mysteries of how stars form and how they shape their galactic environments.
 My work spans scales from small molecular clouds to entire galaxies, using observations from the largest telescopes in space.
@@ -37,3 +37,5 @@ I combine these data with computer models to uncover the physical properties of 
 <p style="font-size:0.5em; text-align:center; margin-top:0.5em; color:#999; font-style:italic;">
 Figure credits: ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team
 </p>
+
+{% include news.html %}

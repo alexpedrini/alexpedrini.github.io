@@ -1,0 +1,21 @@
+{%- assign items = site.data.news | sort: "date" | reverse -%}
+{%- if items.size > 0 -%}
+<section class="news">
+  <h2 class="news__heading">News</h2>
+  <div class="news__grid">
+    {%- for item in items limit: 6 %}
+    <article class="news-card">
+      {%- if item.image %}
+      <div class="news-card__img"><img src="{{ item.image | relative_url }}" alt="{{ item.title }}" loading="lazy"{% if item.image_position %} style="object-position: {{ item.image_position }};"{% endif %}></div>
+      {%- endif %}
+      <div class="news-card__body">
+        <p class="news-card__date">{{ item.date | date: "%-d %b %Y" }}</p>
+        <h3 class="news-card__title">{{ item.title }}</h3>
+        <p class="news-card__text">{{ item.text }}</p>
+        {%- if item.link %}<p><a href="{{ item.link }}" class="btn btn--primary btn--small">Read more</a></p>{% endif %}
+      </div>
+    </article>
+    {%- endfor %}
+  </div>
+</section>
+{%- endif -%}

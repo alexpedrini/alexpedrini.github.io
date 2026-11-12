@@ -1,0 +1,13 @@
+# News shown at the bottom of the home page (newest first, latest 6 shown).
+# To add news, copy an entry to the TOP of the list and edit it.
+# Fields: date (YYYY-MM-DD), title, text, image.
+# Optional: link, image_position (which part of the photo stays in the crop, e.g. "center 30%" = higher up).
+
+- date: 2026-11-05
+  title: "PhD defence"
+  text: >-
+    I successfully defended my PhD thesis, <em>"Young star clusters in the act of emerging:
+    a JWST and HST view of stellar feedback and timescales"</em>, at Stockholm University.
+    My opponent was Dr. Edvige Corbelli from INAF-Arcetri.
+  image: /assets/images/news1.jpg
+  image_position: "center 38%"
