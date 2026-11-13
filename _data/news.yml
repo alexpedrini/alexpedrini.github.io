@@ -12,6 +12,16 @@
   image: /assets/images/news1_web.jpg
   image_position: "center 38%"
 
+- date: 2026-07-13
+  title: "Talk at GalScale26 in Ascona"
+  text: >-
+    I gave a talk at the GalScale26 conference in Ascona, Switzerland. The focus of the
+    conference was on the many scales of galaxy environments, from stellar feedback to galaxy
+    clusters. Such a cool meeting! It was also very nice to meet my master's thesis supervisors
+    at a conference for the first time!
+  image: /assets/images/ascona_web.jpg
+  image_position: "center 40%"
+
 - date: 2026-05-06
   title: "Our paper in Nature Astronomy is in the news!"
   text: >-
